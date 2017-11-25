@@ -1,0 +1,68 @@
+/*!
+ * Start Bootstrap - One Page Wonder (https://startbootstrap.com/template-overviews/one-page-wonder)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-one-page-wonder/blob/master/LICENSE)
+ */
+
+
+.masthead {
+  background: url('../images/header.jpg') no-repeat center bottom scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.childhead {
+  background: url('../images/header.jpg') no-repeat center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+body {
+  background: url('../images/cloud.jpg') center;
+  background-repeat: repeat-y;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  background-size: contain;
+  -o-background-size: contain;
+}
+
+.overlay {
+  padding: 5rem 0;
+  text-align: center;
+}
+
+.faded {
+  background: rgba(0, 0, 0, 0.6);
+}
+
+@media (min-width: 992px) {
+  header.masthead>.overlay {
+    padding: 10rem 0;
+  }
+}
+
+.childfooter {
+  background: url('../images/header.jpg') no-repeat center bottom scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  padding: 5rem 0;
+}
+
+.align-right {
+  text-align: right
+}
+
+.job-image {
+  width: 100%
+}
+
+
+.qual-image {
+  width: 100%
+}
